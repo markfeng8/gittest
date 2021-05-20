@@ -1,0 +1,3 @@
+include ':fctLib'
+include ':app'
+rootProject.name = "FctGitTest"
